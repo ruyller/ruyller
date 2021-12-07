@@ -2,7 +2,7 @@
 
 
 - 🔭 Hoje trabalho com Front-end
-- 🌱 Estudando Javascript, C#,Ruby
+- 🌱 Estudando Javascript, C#, Ruby, SQL
 - 📫 Contate-me no e-mail: ruyller_fs@hotmail.com
 
 
@@ -18,6 +18,9 @@
   <img align="center" alt="Ruyller-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ruyller-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Ruyller-Ruby" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original-wordmark.svg">
+  <img align="center" alt="Ruyller-SQL" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
+
+
  </div>
 
    ##
