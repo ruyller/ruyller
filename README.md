@@ -18,7 +18,7 @@
   <img align="center" alt="Ruyller-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ruyller-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Ruyller-Ruby" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original-wordmark.svg">
-  <img align="center" alt="Ruyller-SQL" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
+  <img align="center" alt="Ruyller-SQL" height="30" width="40" <img src="https://cdn-icons-png.flaticon.com/512/5968/5968364.png">
 
 
  </div>
